@@ -1,0 +1,19 @@
+:root, body{
+  background-color: rgb(213, 215, 216);
+}
+
+.navbar, .card{
+  background-color: rgba(222, 250, 255, 0.576);
+}
+
+.errors {
+  color:red;
+}
+
+td:nth-child(2){
+  max-width: 650px;
+}
+
+#successAlert, #failAlert{
+  display: none;
+}
